@@ -1,0 +1,7 @@
+.vscode
+*.swp
+*.o
+viewer
+validator
+bot/lib/
+
