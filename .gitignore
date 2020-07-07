@@ -1,7 +1,15 @@
-.vscode
-*.swp
-*.o
-viewer
-validator
-bot/lib/
+__pycache__/
 
+.empty
+.mypy_cache
+.vscode
+.settings
+.project
+.cproject
+
+*.swp
+*.pyc
+
+data/
+lib/
+log/
